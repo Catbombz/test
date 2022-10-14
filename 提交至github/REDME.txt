@@ -1,0 +1,10 @@
+Naming rules of the audio of subjective text: 
+
+ reference sounds:   "machine type _target_ positionID.wav"
+	machine type: power -- power transformer;  converter -- converter transformer
+	positionID: where the reference sound recorded at the target position in the control room of the transformer substation.
+
+ stimuli: "machine type _method_ nr.wav"
+	machine type: power -- power transformer;  converter -- converter transformer
+	method: 
+	nr: the noise reduction level, 9dB, 12dB, 15dB, 18dB
